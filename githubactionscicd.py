@@ -4,7 +4,7 @@ from openai import OpenAI
 
 from dotenv import load_dotenv
  
-# Load API key from .env file
+# Load  API key from .env file
 
 load_dotenv()
 
