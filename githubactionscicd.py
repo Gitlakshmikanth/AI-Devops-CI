@@ -12,7 +12,7 @@ openai_key = os.getenv("OPENAI_API_KEY")
 
 client = OpenAI(api_key=openai_key)
  
-# Step 1: Generate GitHub Actions YAML file
+# Step 1: Generate GitHub Actions YAML files
 
 prompt_generate = """
 
